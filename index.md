@@ -1,6 +1,6 @@
 
 
-# Home page: Intro: What is #Africarising
+What is #Africarising? 
 
 ![Alt Text](https://www.economist.com/sites/default/files/20111203_LDP002.jpg)
 
