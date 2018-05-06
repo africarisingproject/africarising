@@ -40,7 +40,10 @@ CE Noticias Financieras (English version)
 
 
 ### Global Analysis
-- twitter network model, twitter demography of #Africarising, and global topic models with Clarisse’s graphic
+
+Twitter Network Mapping:
+With Twitter, the network map of the hashtags used in combination with #AfricaRising shows three things. One, it demonstrates that business and development is the backbone of the narrative. Two, it identifies the key countries associated with the narrative. We see, in particular, Kenya, Ghana, and Nigeria. This positioning underscores the logic behind selecting Kenya and Ghana for our Factiva analysis. Three, this network map also explains why we need the Factiva analysis. Here, we have a general overview of the terms used online; however, it is pretty superficial. 
+
 
 ### Regional Analysis
 
