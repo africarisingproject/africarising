@@ -42,7 +42,11 @@ The New Zealand Herald
 Al-Jazeera English
 CE Noticias Financieras (English version)
 
-
+[tabgroup]
+[tab title="Tab 1" id="t1"]Tab 1 content[/tab]
+[tab title="Tab 2" id="t2"]Tab 2 content[/tab]
+[tab title="Tab 3" id="t3"]Tab 3 content[/tab]
+[/tabgroup]
 
 ### Global Analysis
 - twitter network model, twitter demography of #Africarising, and global topic models with Clarisse’s graphic
