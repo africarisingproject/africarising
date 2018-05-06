@@ -41,20 +41,7 @@ Deutsche Welle
 The New Zealand Herald
 Al-Jazeera English
 CE Noticias Financieras (English version)
-menu: [
-{'name': 'Introduction', 'pagename': 'index'},
-{'name': 'Methodology', 'pagename': 'page1'},
-{'name': 'Discussion', 'pagename': 'page2'},
-{'name': 'Limitations & conclusion', 'pagename': 'page3'},
-{'name': 'References', 'pagename': 'page4'},
-{'name': 'YouTube videos', 'pagename': 'page5'},
-]
 
-[tabgroup]
-[tab title="Tab 1" id="t1"]Tab 1 content[/tab]
-[tab title="Tab 2" id="t2"]Tab 2 content[/tab]
-[tab title="Tab 3" id="t3"]Tab 3 content[/tab]
-[/tabgroup]
 
 ### Global Analysis
 - twitter network model, twitter demography of #Africarising, and global topic models with Clarisse’s graphic
@@ -63,7 +50,13 @@ menu: [
 
 `git submodule add: regional analysis
 `
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `theme: jekyll-theme-cayman
+title: AfricaRising
+description: 
+menu: [
+{'name': 'Introduction', 'pagename': 'index'},
+{'name': 'Data collectionn', 'pagename': 'data collection'},
+]` text
 
 [Link](url) and ![Image](src)
 ```
