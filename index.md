@@ -56,6 +56,8 @@ CE Noticias Financieras (English version)
 [Link](url) and ![Image](src)
 ```
 
+git submodule add https://github.com/<user>/rock rock 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
