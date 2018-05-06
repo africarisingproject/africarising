@@ -41,6 +41,14 @@ Deutsche Welle
 The New Zealand Herald
 Al-Jazeera English
 CE Noticias Financieras (English version)
+menu: [
+{'name': 'Introduction', 'pagename': 'index'},
+{'name': 'Methodology', 'pagename': 'page1'},
+{'name': 'Discussion', 'pagename': 'page2'},
+{'name': 'Limitations & conclusion', 'pagename': 'page3'},
+{'name': 'References', 'pagename': 'page4'},
+{'name': 'YouTube videos', 'pagename': 'page5'},
+]
 
 [tabgroup]
 [tab title="Tab 1" id="t1"]Tab 1 content[/tab]
