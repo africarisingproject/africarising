@@ -1,6 +1,9 @@
 
 
 # Home page: Intro: What is #Africarising
+
+![GitHub Logo](/images/logo.png)
+
 ![Alt Text](https://www.economist.com/sites/default/files/20111203_LDP002.jpg)
 **Africa Rising** is a narrative that emphasizes the rapid growth in Africa as a sign of the continent’s economic transformation. Economists have argued that foreign direct investment is a key factor in this rapid growth. A Foreign Policy Survey of 62 experts on African economists cited FDI as the second most important factor in Africa’s growth. In 2015, Africa was the world’s fastest-growing region for FDI. Scholars like Ian Taylor have argued that this growth driven by FDI is finite and that the **“story of Africa rising is just that: a story.”**
 
