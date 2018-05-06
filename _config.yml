@@ -3,5 +3,5 @@ title: AfricaRising
 description: 
 menu: [
 {'name': 'Introduction', 'pagename': 'index'},
-{'name': 'Data collectionn', 'pagename': 'data collection'},
+{'name': 'Data collection', 'pagename': 'data collection'},
 ]
