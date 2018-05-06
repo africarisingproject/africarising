@@ -49,8 +49,8 @@ CE Noticias Financieras (English version)
 
 ### Regional Analysis
 
-
-
+`git submodule add: regional analysis
+`
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
