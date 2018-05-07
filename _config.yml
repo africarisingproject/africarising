@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: AfricaRising
+title: "AfricaRising"
 description: 
 menu: [
 {'name': 'Introduction', 'pagename': 'index'},
